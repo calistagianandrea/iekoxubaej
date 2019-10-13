@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://shoaquufie.kicker-rabatz.de/sitemap.xml
